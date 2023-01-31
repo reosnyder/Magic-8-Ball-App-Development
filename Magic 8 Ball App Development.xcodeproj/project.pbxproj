@@ -13,6 +13,7 @@
 		B14DF11E29820A590053A4F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B14DF11C29820A590053A4F4 /* Main.storyboard */; };
 		B14DF12029820A5B0053A4F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B14DF11F29820A5B0053A4F4 /* Assets.xcassets */; };
 		B14DF12329820A5B0053A4F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B14DF12129820A5B0053A4F4 /* LaunchScreen.storyboard */; };
+		B14DF12B29889D130053A4F4 /* Magic 8 Ball App Development in Resources */ = {isa = PBXBuildFile; fileRef = B14DF12A29889D120053A4F4 /* Magic 8 Ball App Development */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B14DF11F29820A5B0053A4F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B14DF12229820A5B0053A4F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B14DF12429820A5B0053A4F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B14DF12A29889D120053A4F4 /* Magic 8 Ball App Development */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Magic 8 Ball App Development"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				B14DF11629820A590053A4F4 /* AppDelegate.swift */,
 				B14DF11829820A590053A4F4 /* SceneDelegate.swift */,
 				B14DF11A29820A590053A4F4 /* ViewController.swift */,
+				B14DF12A29889D120053A4F4 /* Magic 8 Ball App Development */,
 				B14DF11C29820A590053A4F4 /* Main.storyboard */,
 				B14DF11F29820A5B0053A4F4 /* Assets.xcassets */,
 				B14DF12129820A5B0053A4F4 /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B14DF12B29889D130053A4F4 /* Magic 8 Ball App Development in Resources */,
 				B14DF12329820A5B0053A4F4 /* LaunchScreen.storyboard in Resources */,
 				B14DF12029820A5B0053A4F4 /* Assets.xcassets in Resources */,
 				B14DF11E29820A590053A4F4 /* Main.storyboard in Resources */,
